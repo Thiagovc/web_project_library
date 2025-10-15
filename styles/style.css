@@ -348,13 +348,13 @@ ul {
   display: flex;
 }
 
-.footer__column_content_hours {
+.footer__column__content_hours {
   margin-left: auto;
   flex-direction: column;
   justify-content: space-between;
 }
 
-.footer__column_content_social {
+.footer__column__content_social {
   margin-left: 80px;
   flex-direction: column;
   justify-content: space-between;
